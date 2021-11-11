@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xkolbas
-- 👀 I’m interested in Dev: JS, TS, Angular, Node, Php, Java, Android, C#, Unity, C++, Unreal Engine.
+- 👀 I’m interested in Dev: JS, TS, Angular, Node, Php, Java, Android, SQL, PostgreSQL.
 - 📫 How to reach me xkolbas@gmail.com
 
 <!---
